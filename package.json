@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chromedriver": "^126.0.4",
+    "express": "^4.19.2",
+    "selenium-webdriver": "^4.22.0"
+  }
+}
